@@ -1,5 +1,5 @@
 {
-    "name": "chkilel/vitewind-manager-plugin",
+    "name": "chkilel/vitewindmanager-plugin",
     "description": "Helper plugin for `Vitewind Theme`, will inject CSS and JS assets for \"Vitewind\" theme to work properly with viteJS in development and production",
     "type": "october-plugin",
     "homepage": "https://github.com/chkilel/vitewind-plugin",
