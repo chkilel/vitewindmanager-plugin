@@ -1,0 +1,29 @@
+{
+    "name": "chkilel/vitewind-manager-plugin",
+    "description": "Helper plugin for `Vitewind Theme`, will inject CSS and JS assets for \"Vitewind\" theme to work properly with viteJS in development and production",
+    "type": "october-plugin",
+    "homepage": "https://github.com/chkilel/vitewind-plugin",
+    "keywords": [
+        "octobercms",
+        "wintercms",
+        "vite js",
+        "windicss",
+        "theme"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adil Chehabi",
+            "email": "adil@chehabi.ma",
+            "role": "Creator",
+            "homepage": "https://chehabi.me"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}

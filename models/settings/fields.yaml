@@ -1,0 +1,26 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    environment:
+        label: chkilel.vitewindmanager::lang.settings.environmemt.label
+        type: dropdown
+        default: env
+        comment: chkilel.vitewindmanager::lang.settings.environmemt.comment
+        options:
+            env: chkilel.vitewindmanager::lang.settings.environmemt.options.env
+            dev: chkilel.vitewindmanager::lang.settings.environmemt.options.dev
+            prod: chkilel.vitewindmanager::lang.settings.environmemt.options.prod
+    port:
+        label: chkilel.vitewindmanager::lang.settings.port.label
+        comment: chkilel.vitewindmanager::lang.settings.port.comment
+        default: 3000
+
+    theme:
+        label: chkilel.vitewindmanager::lang.settings.theme.label
+        default: vitewind
+        type: dropdown
+        comment: chkilel.vitewindmanager::lang.settings.theme.comment
+
+
