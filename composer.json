@@ -1,8 +1,8 @@
 {
     "name": "chkilel/vitewindmanager-plugin",
-    "description": "Helper plugin for `Vitewind Theme`, will inject CSS and JS assets for \"Vitewind\" theme to work properly with viteJS in development and production",
+    "description": "Helper plugin for Vitewind Theme, will inject CSS and JS assets for theme to work properly with viteJS in development and production",
     "type": "october-plugin",
-    "homepage": "https://github.com/chkilel/vitewind-plugin",
+    "homepage": "https://github.com/chkilel/vitewind-manager-plugin",
     "keywords": [
         "octobercms",
         "wintercms",
