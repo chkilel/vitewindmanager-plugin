@@ -19,7 +19,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'chkilel.vitewindmanager::lang.plugin.name',
             'description' => 'chkilel.vitewindmanager::lang.plugin.description',
-            'author'      => 'Chkilel',
+            'author'      => 'Adil Chehabi <Chkilel>',
             'icon'        => 'icon-rocket'
         ];
     }
